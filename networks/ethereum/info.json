@@ -1,0 +1,6 @@
+{
+    "chain_id": 1,
+    "external_data_sources":{
+        "coingecko_id": "binance-smart-chain"
+    }
+}

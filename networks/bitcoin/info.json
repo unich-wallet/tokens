@@ -1,0 +1,6 @@
+{
+    "chain_id": null,
+    "external_data_sources":{
+        "coingecko_id": "ordinals"
+    }
+}
