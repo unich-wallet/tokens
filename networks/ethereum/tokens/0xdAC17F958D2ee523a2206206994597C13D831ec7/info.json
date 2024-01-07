@@ -8,9 +8,6 @@
     "decimals": 6,
     "status": "active",
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "external_data_sources": {
-        "coingecko_id": "tether"
-    },
     "links": [
         {
             "name": "facebook",

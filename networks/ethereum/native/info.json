@@ -8,9 +8,6 @@
     "decimals": 18,
     "status": "active",
     "address": null,
-    "external_data_sources": {
-        "coingecko_id": "binancecoin"
-    },
     "links": [
         {
             "name": "github",
